@@ -16,10 +16,12 @@ This repository contains complete documentation and practical guides for:
 ### Quick Start
 - **[Hands-On Guide](Hands-On-Guide.md)** - 30-minute quick start tutorial for beginners
 - **[Quick Reference](Quick-Reference.md)** - Commands, checklists, and quick lookup guide
+- **[Progress Checklist](Progress-Checklist.md)** - Track your learning and completion status
 
 ### Comprehensive Guides
 - **[MobSF Security Analysis](MobSF-Security-Analysis.md)** - Complete security analysis methodology
 - **[Sample Findings Report](Sample-Findings-Report.md)** - Professional security report template
+- **[Workflow Diagram](Workflow-Diagram.md)** - Visual workflow and process overview
 
 ## 🚀 Quick Start (3 Simple Steps)
 
@@ -138,12 +140,16 @@ This project directly addresses mobile security requirements:
 
 ```
 MobSF-Android-Security/
-├── README.md                      # This file - project overview
-├── Hands-On-Guide.md              # Step-by-step tutorial
-├── MobSF-Security-Analysis.md     # Comprehensive methodology
-├── Sample-Findings-Report.md      # Professional report template
-└── Quick-Reference.md             # Commands and checklists
+├── README.md                      # Project overview and quick start
+├── Hands-On-Guide.md              # 30-minute beginner tutorial
+├── MobSF-Security-Analysis.md     # Comprehensive methodology (18KB)
+├── Sample-Findings-Report.md      # Professional report template (23KB)
+├── Quick-Reference.md             # Commands and checklists (10KB)
+├── Workflow-Diagram.md            # Visual process overview (19KB)
+└── Progress-Checklist.md          # Learning progress tracker (12KB)
 ```
+
+**Total Documentation:** ~100KB of comprehensive security analysis content
 
 ## 🏆 Key Features
 
